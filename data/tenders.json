@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Construction of New School Building",
+    "organization": "Ministry of Education",
+    "location": "Nouakchott, Mauritania",
+    "deadline": "2025-07-15",
+    "description": "Tender for the construction of a new primary school in Nouakchott.",
+    "requirements": [
+      "At least 5 years of experience in construction",
+      "Certified safety standards compliance"
+    ],
+    "contactEmail": "tenders@education.gov.mr",
+    "pdf": "files/tender-school-building.pdf"
+  },
+  {
+    "title": "Supply of Office Equipment",
+    "organization": "Health Department",
+    "location": "Nouadhibou, Mauritania",
+    "deadline": "2025-08-01",
+    "description": "Supply and installation of office equipment for local health centers.",
+    "requirements": [
+      "Supplier must be certified",
+      "Delivery within 30 days"
+    ],
+    "contactEmail": "procurement@health.gov.mr",
+    "pdf": "files/tender-office-equipment.pdf",
+    "companyWebsite": "https://example.com"
+  },
+
+
+  {
+  "title": "Tender Title",
+  "organization": "Org Name",
+  "location": "Nouakchott",
+  "deadline": "2025-06-01",
+  "description": "Detailed description...",
+  "pdf": "files/tender123.pdf",
+  "companyWebsite": "https://example.com"
+}
+
+
+
+
+]

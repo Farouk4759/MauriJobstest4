@@ -1,0 +1,178 @@
+
+[
+  {
+    "title": "Frontend Developer",
+    "company": "Tech Solutions Inc.",
+    "location": "Cairo, Egypt",
+    "deadline": "2025-06-01",
+    "extra": "Full-time, Remote",
+    "description": "You will build dynamic, modern UIs using React. Collaborate with UX designers and backend engineers.",
+    "companyWebsite": "https://techsolutions.com",
+    "pdf": "files/frontend-developer.pdf"
+  },
+  {
+    "title": "UI/UX Designer",
+    "company": "Creative Agency",
+    "location": "Alexandria, Egypt",
+    "deadline": "2025-06-10",
+    "extra": "Freelance",
+    "description": "We need a creative designer with experience in mobile-first UX flows.",
+    "companyWebsite": "https://creativeagency.org",
+    "pdf": "files/ui-ux-designer.pdf"
+  },
+  {
+    "title": "Chargé(e) d’Éducation et Apprentissage",
+    "company": "Counterpart International",
+    "location": "Tidjikdja, Tagant, Mauritania",
+    "description": "Counterpart International est une organisation à but non lucratif...",
+    "summary": "Sous la supervision du Directeur des Opérations...",
+    "responsibilities": [
+      "Travailler étroitement avec les partenaires techniques...",
+      "Assurer que l’outil standard de l’évaluation du niveau de lecture...",
+      "Assurer la mise en œuvre des activités d’éducation...",
+      "Collaborer avec les partenaires à l’élaboration...",
+      "Soutenir la mise en œuvre des activités de sensibilisation...",
+      "Participer à la planification logistique...",
+      "Veiller à ce que les contenus de formation intègrent des éléments d’équité...",
+      "Assurer la coordination technique avec les enseignants...",
+      "Contribuer au suivi-évaluation des activités...",
+      "Élaborer un plan d’action mensuel et rapporter les activités."
+    ],
+    "qualifications": [
+      "CAP en enseignement fondamental, Master 2 en Éducation...",
+      "Minimum 15 ans d'expérience dans le domaine de l’éducation...",
+      "Expérience avérée au niveau de la DREN ou IDENs...",
+      "Parfait bilingue (arabe/français)...",
+      "Volonté de résider dans le Tagant..."
+    ],
+    "application": {
+      "deadline": "31 mai 2025",
+      "email": "recruitment.mauritania@counterpart.org",
+      "subject": "Chargé. Education et apprentissages"
+    },
+    "note": "Cette description de poste n’est pas exhaustive.",
+    "companyWebsite": "https://creativeagency.org",
+    "pdf": "files/ui-ux-designer.pdf",
+    "extra": "Full-time",
+    "deadline": "2025-06-01"
+  },
+  {
+    "title": "Un(e) Infirmier(e) Superviseur Axe",
+    "company": "ONG ALIMA Mauritanie",
+    "location": "Bassikounou",
+    "extra": "Full-time",
+    "description": "Un(e) Infirmier(e) Superviseur Axe.",
+    "companyWebsite": "https://alima.ngo/en/about-us/where-we-work/mauritania/",
+    "pdf": "files/details.pdf",
+    "application": {
+      "email": "cofirh@mauritanie.alima.ngo",
+      "deadline": "26 mai 2025",
+      "subject": "Candidature – Infirmier(e) Superviseur Axe"
+    }
+  },
+  {
+    "title": "Technicien Supérieur en Bâtiment",
+    "company": "Société opérant dans les Bâtiments et Travaux Publics",
+    "location": "Nouakchott",
+    "description": "Organiser et gérer les chantiers ; Établir le planning d’intervention ; Suivre les travaux de construction et de réhabilitation ; Gérer le stock matériel ; Planifier les activités journalières.",
+    "qualifications": [
+      "Titulaire d’un BTS en bâtiment",
+      "Expérience minimum de 5 ans à un poste similaire",
+      "Organisation, rigueur, disponibilité",
+      "Connaissance de logiciels de travaux publics"
+    ],
+    "application": {
+      "email": "m.voffal@gmail.com",
+      "subject": "Candidature – Technicien Supérieur en Bâtiment",
+      "deadline": "28 mai 2025"
+    },
+    "extra": "full time",
+    "noteDossiers de candidature": "Envoyez vos demandes (LM, Diplôme, Justificatif de l’expérience) avant le 28 mai 2025 à l'adresse mail : m.voffal@gmail.com ; RAF de la société Contact WhatsApp 22.32.55.82",
+    "deadline": "28 mai 2025",
+    "companyWebsite": "https://alima.ngo/en/about-us/where-we-work/mauritania/",
+    "pdf": "files/details.pdf"
+  },
+
+
+
+  {
+    "title": "Expired Job",
+    "company": "Old Co.",
+    "location": "Nowhere",
+    "deadline": "2025-05-21",
+    "extra": "Contract"
+  },
+  {
+    "title": "Future Job",
+    "company": "New Co.",
+    "location": "Somewhere",
+    "deadline": "2025-12-01",
+    "extra": "Full-time"
+  },
+
+
+ {
+    "title": "Expired Job2",
+    "company": "Old Co.",
+    "location": "Nowhere",
+    "deadline": "2025-05-21",
+    "extra": "Contract"
+  },
+  {
+    "title": "Future Job2",
+    "company": "New Co.",
+    "location": "Somewhere",
+    "deadline": "2025-12-01",
+    "extra": "Full-time"
+  },
+
+{
+  
+    "title": "Expired Job4",
+    "company": "Old Co.",
+    "location": "Nowhere",
+    "deadline": "2025-05-21",
+    "extra": "Contract"
+  },
+  {
+    "title": "Future Job5",
+    "company": "New Co.",
+    "location": "Somewhere",
+    "deadline": "2025-12-01",
+    "extra": "Full-time"
+  },
+{
+  
+    "title": "Expired Job4",
+    "company": "Old Co.",
+    "location": "Nowhere",
+    "deadline": "2025-05-21",
+    "extra": "Contract"
+  },
+  {
+    "title": "Future Job5",
+    "company": "New Co.",
+    "location": "Somewhere",
+    "deadline": "2025-12-01",
+    "extra": "Full-time"
+  }
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
