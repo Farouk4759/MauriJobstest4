@@ -1,8 +1,7 @@
 // Load tender data from tenders.json
 let tenders = [];
 const tenderList = document.getElementById('tenderList') || document.getElementById('jobList');
-const searchInput = document.getElementById('searchInput');
-const searchForm = document.querySelector('.search-form');
+
 
 // Render tender cards
 function renderTenders(tenderArray) {
