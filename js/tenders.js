@@ -1,6 +1,6 @@
 // Load tender data from tenders.json
 let tenders = [];
-const tenderList = document.getElementById('tenderList') || document.getElementById('jobList');
+const tenderList = document.getElementById('tenderList') || ;
 
 
 // Render tender cards
